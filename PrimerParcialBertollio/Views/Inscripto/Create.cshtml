@@ -1,0 +1,61 @@
+﻿@model PrimerParcialBertollio.Models.Inscripto
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Inscripto</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            
+            <div class="form-group">
+                <label asp-for="Nombre" class="control-label"></label>
+                <input asp-for="Nombre" class="form-control" />
+                <span asp-validation-for="Nombre" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="IdDisciplina" class="control-label"></label>
+                <select asp-for="IdDisciplina" class="form-control" >
+                    <option value="">Seleccione una Opción</option>
+                    @{
+                        foreach(var item in ViewBag.Disciplina)
+                        {
+                            <option value="@item.Id">@item.NombreDisciplina</option>
+                        }
+                    }                
+                    <option value="Natacion">Natacion</option> 
+                    <option value="Atletismo">Atletismo</option> 
+                    <option value="Ciclismo">Ciclismo</option>
+                    <option value="Otro">Otro</option> 
+                </select>
+                <span asp-validation-for="IdDisciplina" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Edad" class="control-label"></label>
+                <input asp-for="Edad" class="form-control" />
+                <span asp-validation-for="Edad" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CiudadResidencia" class="control-label"></label>
+                <input asp-for="CiudadResidencia" class="form-control" />
+                <span asp-validation-for="CiudadResidencia" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
