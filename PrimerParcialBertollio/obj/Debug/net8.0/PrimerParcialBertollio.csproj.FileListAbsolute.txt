@@ -235,3 +235,4 @@ C:\ProgramacionIII\PrimerParcialBertollio\PrimerParcialBertollio\obj\Debug\net8.
 C:\ProgramacionIII\PrimerParcialBertollio\PrimerParcialBertollio\obj\Debug\net8.0\PrimerParcialBertollio.pdb
 C:\ProgramacionIII\PrimerParcialBertollio\PrimerParcialBertollio\obj\Debug\net8.0\PrimerParcialBertollio.genruntimeconfig.cache
 C:\ProgramacionIII\PrimerParcialBertollio\PrimerParcialBertollio\obj\Debug\net8.0\ref\PrimerParcialBertollio.dll
+C:\ProgramacionIII\PrimerParcialBertollio\PrimerParcialBertollio\obj\Debug\net8.0\PrimerParcialBertollio.sourcelink.json

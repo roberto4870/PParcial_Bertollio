@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\ProgramacionIII\\PrimerParcialBertollio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AC0210C2-08D1-4C43-A56E-26CBB0C24CE3}|PrimerParcialBertollio\\PrimerParcialBertollio.csproj|c:\\programacioniii\\primerparcialbertollio\\primerparcialbertollio\\views\\inscripto\\cantidadpordisciplina.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AC0210C2-08D1-4C43-A56E-26CBB0C24CE3}|PrimerParcialBertollio\\PrimerParcialBertollio.csproj|solutionrelative:primerparcialbertollio\\views\\inscripto\\cantidadpordisciplina.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{AC0210C2-08D1-4C43-A56E-26CBB0C24CE3}|PrimerParcialBertollio\\PrimerParcialBertollio.csproj|c:\\programacioniii\\primerparcialbertollio\\primerparcialbertollio\\views\\inscripto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC0210C2-08D1-4C43-A56E-26CBB0C24CE3}|PrimerParcialBertollio\\PrimerParcialBertollio.csproj|solutionrelative:primerparcialbertollio\\views\\inscripto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC0210C2-08D1-4C43-A56E-26CBB0C24CE3}|PrimerParcialBertollio\\PrimerParcialBertollio.csproj|c:\\programacioniii\\primerparcialbertollio\\primerparcialbertollio\\controllers\\inscriptocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC0210C2-08D1-4C43-A56E-26CBB0C24CE3}|PrimerParcialBertollio\\PrimerParcialBertollio.csproj|solutionrelative:primerparcialbertollio\\controllers\\inscriptocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC0210C2-08D1-4C43-A56E-26CBB0C24CE3}|PrimerParcialBertollio\\PrimerParcialBertollio.csproj|c:\\programacioniii\\primerparcialbertollio\\primerparcialbertollio\\models\\inscripto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC0210C2-08D1-4C43-A56E-26CBB0C24CE3}|PrimerParcialBertollio\\PrimerParcialBertollio.csproj|solutionrelative:primerparcialbertollio\\models\\inscripto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AC0210C2-08D1-4C43-A56E-26CBB0C24CE3}|PrimerParcialBertollio\\PrimerParcialBertollio.csproj|c:\\programacioniii\\primerparcialbertollio\\primerparcialbertollio\\models\\disciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,24 +23,12 @@
       "RelativeMoniker": "D:0:0:{AC0210C2-08D1-4C43-A56E-26CBB0C24CE3}|PrimerParcialBertollio\\PrimerParcialBertollio.csproj|solutionrelative:primerparcialbertollio\\datos\\inscriptodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC0210C2-08D1-4C43-A56E-26CBB0C24CE3}|PrimerParcialBertollio\\PrimerParcialBertollio.csproj|c:\\programacioniii\\primerparcialbertollio\\primerparcialbertollio\\controllers\\inscriptocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC0210C2-08D1-4C43-A56E-26CBB0C24CE3}|PrimerParcialBertollio\\PrimerParcialBertollio.csproj|solutionrelative:primerparcialbertollio\\controllers\\inscriptocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC0210C2-08D1-4C43-A56E-26CBB0C24CE3}|PrimerParcialBertollio\\PrimerParcialBertollio.csproj|c:\\programacioniii\\primerparcialbertollio\\primerparcialbertollio\\views\\inscripto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AC0210C2-08D1-4C43-A56E-26CBB0C24CE3}|PrimerParcialBertollio\\PrimerParcialBertollio.csproj|solutionrelative:primerparcialbertollio\\views\\inscripto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AC0210C2-08D1-4C43-A56E-26CBB0C24CE3}|PrimerParcialBertollio\\PrimerParcialBertollio.csproj|c:\\programacioniii\\primerparcialbertollio\\primerparcialbertollio\\views\\inscripto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AC0210C2-08D1-4C43-A56E-26CBB0C24CE3}|PrimerParcialBertollio\\PrimerParcialBertollio.csproj|solutionrelative:primerparcialbertollio\\views\\inscripto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC0210C2-08D1-4C43-A56E-26CBB0C24CE3}|PrimerParcialBertollio\\PrimerParcialBertollio.csproj|c:\\programacioniii\\primerparcialbertollio\\primerparcialbertollio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AC0210C2-08D1-4C43-A56E-26CBB0C24CE3}|PrimerParcialBertollio\\PrimerParcialBertollio.csproj|solutionrelative:primerparcialbertollio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC0210C2-08D1-4C43-A56E-26CBB0C24CE3}|PrimerParcialBertollio\\PrimerParcialBertollio.csproj|c:\\programacioniii\\primerparcialbertollio\\primerparcialbertollio\\models\\inscripto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC0210C2-08D1-4C43-A56E-26CBB0C24CE3}|PrimerParcialBertollio\\PrimerParcialBertollio.csproj|solutionrelative:primerparcialbertollio\\models\\inscripto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AC0210C2-08D1-4C43-A56E-26CBB0C24CE3}|PrimerParcialBertollio\\PrimerParcialBertollio.csproj|c:\\programacioniii\\primerparcialbertollio\\primerparcialbertollio\\views\\inscripto\\cantidadpordisciplina.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC0210C2-08D1-4C43-A56E-26CBB0C24CE3}|PrimerParcialBertollio\\PrimerParcialBertollio.csproj|solutionrelative:primerparcialbertollio\\views\\inscripto\\cantidadpordisciplina.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -55,25 +51,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\ProgramacionIII\\PrimerParcialBertollio\\PrimerParcialBertollio\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "PrimerParcialBertollio\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\ProgramacionIII\\PrimerParcialBertollio\\PrimerParcialBertollio\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "PrimerParcialBertollio\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-29T01:10:43.097Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "CantidadPorDisciplina.cshtml",
               "DocumentMoniker": "C:\\ProgramacionIII\\PrimerParcialBertollio\\PrimerParcialBertollio\\Views\\Inscripto\\CantidadPorDisciplina.cshtml",
               "RelativeDocumentMoniker": "PrimerParcialBertollio\\Views\\Inscripto\\CantidadPorDisciplina.cshtml",
               "ToolTip": "C:\\ProgramacionIII\\PrimerParcialBertollio\\PrimerParcialBertollio\\Views\\Inscripto\\CantidadPorDisciplina.cshtml",
               "RelativeToolTip": "PrimerParcialBertollio\\Views\\Inscripto\\CantidadPorDisciplina.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-29T00:58:04.74Z",
               "EditorCaption": ""
@@ -93,46 +76,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\ProgramacionIII\\PrimerParcialBertollio\\PrimerParcialBertollio\\Views\\Inscripto\\Index.cshtml",
               "RelativeDocumentMoniker": "PrimerParcialBertollio\\Views\\Inscripto\\Index.cshtml",
               "ToolTip": "C:\\ProgramacionIII\\PrimerParcialBertollio\\PrimerParcialBertollio\\Views\\Inscripto\\Index.cshtml",
               "RelativeToolTip": "PrimerParcialBertollio\\Views\\Inscripto\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-28T23:31:29.357Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "InscriptoController.cs",
               "DocumentMoniker": "C:\\ProgramacionIII\\PrimerParcialBertollio\\PrimerParcialBertollio\\Controllers\\InscriptoController.cs",
               "RelativeDocumentMoniker": "PrimerParcialBertollio\\Controllers\\InscriptoController.cs",
               "ToolTip": "C:\\ProgramacionIII\\PrimerParcialBertollio\\PrimerParcialBertollio\\Controllers\\InscriptoController.cs",
               "RelativeToolTip": "PrimerParcialBertollio\\Controllers\\InscriptoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwC0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-28T23:08:43.183Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "InscriptoDatos.cs",
               "DocumentMoniker": "C:\\ProgramacionIII\\PrimerParcialBertollio\\PrimerParcialBertollio\\Datos\\InscriptoDatos.cs",
               "RelativeDocumentMoniker": "PrimerParcialBertollio\\Datos\\InscriptoDatos.cs",
               "ToolTip": "C:\\ProgramacionIII\\PrimerParcialBertollio\\PrimerParcialBertollio\\Datos\\InscriptoDatos.cs",
               "RelativeToolTip": "PrimerParcialBertollio\\Datos\\InscriptoDatos.cs",
-              "ViewState": "AgIAAFkAAAAAAAAAAAAvwGUAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAFIAAAAAAAAAAAApwFoAAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-28T22:41:00.672Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Disciplina.cs",
               "DocumentMoniker": "C:\\ProgramacionIII\\PrimerParcialBertollio\\PrimerParcialBertollio\\Models\\Disciplina.cs",
               "RelativeDocumentMoniker": "PrimerParcialBertollio\\Models\\Disciplina.cs",
@@ -145,13 +128,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "Inscripto.cs",
               "DocumentMoniker": "C:\\ProgramacionIII\\PrimerParcialBertollio\\PrimerParcialBertollio\\Models\\Inscripto.cs",
               "RelativeDocumentMoniker": "PrimerParcialBertollio\\Models\\Inscripto.cs",
               "ToolTip": "C:\\ProgramacionIII\\PrimerParcialBertollio\\PrimerParcialBertollio\\Models\\Inscripto.cs",
               "RelativeToolTip": "PrimerParcialBertollio\\Models\\Inscripto.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-28T22:33:14.351Z",
               "EditorCaption": ""

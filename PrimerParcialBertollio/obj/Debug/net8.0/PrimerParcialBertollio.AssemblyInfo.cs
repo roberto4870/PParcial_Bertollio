@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PrimerParcialBertollio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+719b3126670b79ae0969ca224d644fc9c8f96d2a")]
 [assembly: System.Reflection.AssemblyProductAttribute("PrimerParcialBertollio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PrimerParcialBertollio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
